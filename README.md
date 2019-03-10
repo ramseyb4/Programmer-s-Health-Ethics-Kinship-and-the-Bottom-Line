@@ -31,6 +31,7 @@ When it comes to kinship, it seems that as we gain in professional experience, e
 # Files in Repository
 
 Health, Ethics, Kinship and the Bottom Line.html - Jupyter Notebook containing the data exploration, cleaning and visualization process
+
 README.md - This file
 
 # Blog Post
