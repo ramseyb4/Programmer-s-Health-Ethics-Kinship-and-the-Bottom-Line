@@ -22,7 +22,17 @@ Seaborns (https://seaborn.pydata.org/): For data visualization
 
 Stack Overflow Data 2017 Survey: https://www.kaggle.com/stackoverflow/so-survey-2017
 
+# Summary of Findings
+
+Attending to one’s health and ethics does not seem to cost you, and may even benefit a programmer’s bottom line.
+
+When it comes to kinship, it seems that as we gain in professional experience, earnings accrue more to the competitors than to the collaborators.
+
 # Files in Repository
 
 Health, Ethics, Kinship and the Bottom Line.html - Jupyter Notebook containing the data exploration, cleaning and visualization process
 README.md - This file
+
+# Blog Post
+
+https://medium.com/@ramseybitar/a-programmers-prerogatives-a02529b07f88
